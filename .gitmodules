@@ -1,0 +1,45 @@
+[submodule "just-for-fun/touch-tac-toe"]
+	path = just-for-fun/touch-tac-toe
+	url = https://github.com/spidercatnat/touch-tac-toe
+[submodule "just-for-fun/secret-santa"]
+	path = just-for-fun/secret-santa
+	url = https://github.com/spidercatnat/secret-santa
+[submodule "open-source-contributed-to/purr-data"]
+	path = open-source-contributed-to/purr-data
+	url = https://github.com/spidercatnat/purr-data
+[submodule "open-source-contributed-to/txwifi"]
+	path = open-source-contributed-to/txwifi
+	url = https://github.com/spidercatnat/txwifi
+[submodule "security/golang-passive-recon"]
+	path = security/golang-passive-recon
+	url = https://github.com/spidercatnat/golang-passive-recon
+[submodule "security/canvas-fingerprinting"]
+	path = security/canvas-fingerprinting
+	url = https://github.com/spidercatnat/canvas-fingerprinting
+[submodule "tutorials/beginning-js-canvas"]
+	path = tutorials/beginning-js-canvas
+	url = https://github.com/spidercatnat/beginning-js-canvas
+[submodule "ops/rpi-buster-docker-x86_64"]
+	path = ops/rpi-buster-docker-x86_64
+	url = https://github.com/spidercatnat/rpi-buster-docker-x86_64
+[submodule "backburner/semantic-vexflow"]
+	path = backburner/semantic-vexflow
+	url = https://github.com/spidercatnat/semantic-vexflow
+[submodule "just-for-fun/liquid-wasm"]
+	path = just-for-fun/liquid-wasm
+	url = https://github.com/spidercatnat/liquid-wasm
+[submodule "just-for-fun/react-hello-wasm"]
+	path = just-for-fun/react-hello-wasm
+	url = https://github.com/spidercatnat/react-hello-wasm
+[submodule "just-for-fun/product-management-demo"]
+	path = just-for-fun/product-management-demo
+	url = https://github.com/spidercatnat/product-management-demo
+[submodule "just-for-fun/hangman"]
+	path = just-for-fun/hangman
+	url = https://github.com/spidercatnat/hangman
+[submodule "just-for-fun/burger"]
+	path = just-for-fun/burger
+	url = https://github.com/spidercatnat/burger
+[submodule "just-for-fun/friend-finder"]
+	path = just-for-fun/friend-finder
+	url = https://github.com/spidercatnat/friend-finder
